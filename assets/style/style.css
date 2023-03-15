@@ -255,7 +255,7 @@ body{
     }
     
     .menu-lateral__link--sobremim::before{
-        content: "☻";
+        content: "⚫";
         padding: 8px;
     }
     
