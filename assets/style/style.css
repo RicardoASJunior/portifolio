@@ -72,7 +72,7 @@ body{
 }
 
 .menu-lateral__link--sobremim::before{
-    content: "☻";
+    content: "⚫";
     font-size: 28px;
     padding: 17px;
 }
