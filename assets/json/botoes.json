@@ -1,0 +1,26 @@
+[
+    {
+        "titulo":"GitHub",
+        "imagem":"./assets/img/github.png",
+        "altImagem":"imagem do Github",
+        "link":"https://github.com/RicardoASJunior"
+    },
+    {
+        "titulo":"LinkedIn",
+        "imagem":"./assets/img/linkedin.png",
+        "altImagem":"imagem do LinkedIn",
+        "link":"https://www.linkedin.com/in/ricardoasjunior"
+    },
+    {
+        "titulo":" Instagram",
+        "imagem":"./assets/img/instagram.png",
+        "altImagem":"imagem do Instagram",
+        "link":"https://www.instagram.com/ricardo.a.s.junior/"
+    },
+    {
+        "titulo":"Certificados",
+        "imagem":"./assets/img/certificados.png",
+        "altImagem":"imagem do Instagram",
+        "link":"https://drive.google.com/drive/folders/1aiVKjE6eeR2KHjMo3IoDiliMJaKAk1oN?usp=drive_link"
+    }
+]

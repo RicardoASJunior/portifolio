@@ -1,0 +1,56 @@
+[
+    {
+        "imagemCard":"./assets/img/site-grid.png",
+        "altImagemCard":"Imagem site de Skate",
+        "tituloCard":"Site Loja Skate",
+        "linkCard":"https://site-skate-ricardojr.vercel.app/"
+    },
+    {
+        "imagemCard":"./assets/img/pong.png",
+        "altImagemCard":"Imagem jogo Pong",
+        "tituloCard":"Jogo Pong",
+        "linkCard":"https://editor.p5js.org/antunesbastiao20/sketches/bfVM5PvzG"
+    },
+    {
+        "imagemCard":"./assets/img/vaquinha.png",
+        "altImagemCard":"Imagem do Jogo da Vaquinha",
+        "tituloCard":"Jogo da Vaquinha",
+        "linkCard":"https://editor.p5js.org/antunesbastiao20/sketches/zAIgMG0Iv"
+    },
+    {
+        "imagemCard":"./assets/img/ferramentas.png",
+        "altImagemCard":"Imagem da Aplicação Desktop",
+        "tituloCard":"Aplicação Desktop",
+        "linkCard":"https://github.com/RicardoASJunior/Missao_certificacao_M1_Estacio"
+    },
+    {
+        "imagemCard":"./assets/img/mochilaViagens.png",
+        "altImagemCard":"imagem da Mochila de Viagem",
+        "tituloCard":"Mochila de Viagem",
+        "linkCard":"https://mochila-de-viagem-ricardojr.vercel.app/"
+    },
+    {
+        "imagemCard":"./assets/img/biblioteca.png",
+        "altImagemCard":"Imagem da Biblioteca com React",
+        "tituloCard":"Biblioteca com React",
+        "linkCard":"https://biblioteca-react-ricardojr.vercel.app/"
+    },
+    {
+        "imagemCard":"./assets/img/belink.png",
+        "altImagemCard":"Imagem da Empresa Belink",
+        "tituloCard":"Empresa Belink",
+        "linkCard":"https://page-belink.vercel.app/"
+    },
+    {
+        "imagemCard":"./assets/img/numeroSecreto.png",
+        "altImagemCard":"Imagem do Jogo de Adivinhação por Voz",
+        "tituloCard":"Jogo de Adivinhação por Voz",
+        "linkCard":"https://jogo-adivinhacao-js.vercel.app/"
+    },
+    {
+        "imagemCard":"./assets/img/midi.png",
+        "altImagemCard":"Imagem do Midi",
+        "tituloCard":"Midi",
+        "linkCard":"https://ricardomidi-js.vercel.app/"
+    }
+]
